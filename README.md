@@ -512,4 +512,5 @@ module.exports = router;
 ```
 
 ## License
-MIT
+📜 License
+MIT License © Rishi Ranjan Kumar
